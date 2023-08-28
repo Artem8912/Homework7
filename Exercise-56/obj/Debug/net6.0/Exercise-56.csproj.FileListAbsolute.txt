@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\Exercise-56.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\Exercise-56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\Exercise-56.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\Exercise-56.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\Exercise-56.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\bin\Debug\net6.0\Exercise-56.exe
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\bin\Debug\net6.0\Exercise-56.deps.json
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\bin\Debug\net6.0\Exercise-56.runtimeconfig.json
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\bin\Debug\net6.0\Exercise-56.dll
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\bin\Debug\net6.0\Exercise-56.pdb
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\Exercise-56.dll
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\refint\Exercise-56.dll
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\Exercise-56.pdb
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\Exercise-56.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework7\Exercise-56\obj\Debug\net6.0\ref\Exercise-56.dll
