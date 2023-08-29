@@ -29,9 +29,8 @@ void PrintArray(int[,] arr)
   
 } 
 
-int[,] MultiplyMatrixes(int[,] arr1, int[,] arr2)
+void MultiplyMatrixes(int[,] arr1, int[,] arr2)
 {
-   int[,] multiply = new int [arr2.GetLength(0),arr2.GetLength(1)];
    int sum =0;
    if (arr1.GetLength(1) != arr2.GetLength(0))
    {
@@ -39,7 +38,6 @@ int[,] MultiplyMatrixes(int[,] arr1, int[,] arr2)
    }
     else 
     {
-           
            
            for (int i= 0; i < arr1.GetLength(0); i++)
            {
@@ -58,7 +56,7 @@ int[,] MultiplyMatrixes(int[,] arr1, int[,] arr2)
            
            }
     }
-    return multiply;
+    
 }
 
 Console.WriteLine(" Введите число строк первой матрицы: ");
